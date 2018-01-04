@@ -1,3 +1,7 @@
-ul {
+ul.social-media-links {
+    list-style-type: none;
+}
+
+ul.rss-email {
     list-style-type: none;
 }
